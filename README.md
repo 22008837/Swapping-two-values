@@ -30,7 +30,7 @@ n1 = temp
 print('Swapped values are: {} {}'.format(n1,n2))
 ```
 ## Output:
-![output](/Screenshot_20221228_072002.png)
+![output](/Screenshot_20230104_071843.png)
 
 
 
